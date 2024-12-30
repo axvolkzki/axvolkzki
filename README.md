@@ -1,4 +1,3 @@
-![Visits](https://img.shields.io/badge/Visits-19136-blue)
 ## Hi there 👋
 
 <!--
