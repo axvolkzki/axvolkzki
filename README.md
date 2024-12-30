@@ -4,20 +4,7 @@
 
 <h2 align="center">Hi There! 👋 I'm Amelia Abenoja</h2>
 
- </br>
 </br>
-<p align="center">
-  <b>🤝🏻 Connect with Me 🤝🏻</b>
-  </br>
-  <a href="mailto:amelia.abenoja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-
-  <a href="www.linkedin.com/in/amelia-joyce-abenoja">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 </br>
 
 <h2>🛠  Tech Stack</h2>
@@ -41,27 +28,28 @@
 
 <h2>⚙️  GitHub Analytics</h2>
 
-<!--
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+<div align="center" style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axvolkzki&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="200px">
 </div>
--->
+
+</br>
+
+<h2 align="center">🤝🏻 Connect with Me 🤝🏻</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axvolkzki&theme=tokyonight&hide_border=true">
-</p>
+  <a href="mailto:amelia.abenoja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+  <a href="www.linkedin.com/in/amelia-joyce-abenoja">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
-
 
 <!--
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=axvolkzki&theme=tokyonight&hide_border=true)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=axvolkzki&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 -->
 
